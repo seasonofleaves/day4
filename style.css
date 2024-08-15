@@ -1,0 +1,40 @@
+header {
+  background-color: blanchedalmond;
+  padding: 2em;
+  padding-bottom: 8em;
+}
+
+button {
+  color: whitesmoke;
+  background-color: #1f9775;
+  border: #137a5d;
+  border-radius: 25px;
+  box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.76), 0 6px 20px 0 rgba(0, 0, 0, 0.76);
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  padding-top: .5em;
+  padding-bottom: .5em;
+}
+
+.bg-color-green {
+  background-color: #1f9775;
+}
+
+
+.montserrat-thin {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.montserrat-bold {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.hero-people-image {
+  max-height: 40vh;
+}
